@@ -2,12 +2,11 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'velozstudio.com'
-version '0.0.0'
+version '0.0.1'
 
 lua54 'yes'
 
 client_scripts {
-    -- 'client/functions.lua',
     'client/main.lua',
 }
 
