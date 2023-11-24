@@ -1,0 +1,21 @@
+fx_version 'cerulean'
+game 'gta5'
+
+author 'velozstudio.com'
+version '0.0.0'
+
+lua54 'yes'
+
+client_scripts {
+    -- 'client/functions.lua',
+    'client/main.lua',
+}
+
+files {
+    'web/dist/index.html',
+    'web/dist/assets/*.js',
+    'web/dist/assets/*.css',
+}
+
+ui_page 'web/dist/index.html'
+-- ui_page 'http://localhost:5173/'
