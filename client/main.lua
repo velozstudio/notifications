@@ -37,5 +37,4 @@ end)
 --     notify('This is a notification without progress bar', { progressBar = false })
 --     notify('This is a light theme notification', { theme = 'light' })
 -- end, false)
-
 -- RegisterKeyMapping('dev_notify', 'Testing', 'keyboard', 'E')
